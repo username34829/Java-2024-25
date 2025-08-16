@@ -5,6 +5,9 @@ IM 19 years old now and im typing this in aug 17 00:41 2025
 
 i decided to upload all my practice, exercise and activity here right now in java.
 this might sound confusing but all the other code is from 2024 when 
-i haven't use github. so yeah....
+i haven't use github.
+
+as you can see mostof them repeated practice, its because i stoped for a months adn get back of coding
+but as of now, im aiming to master this language at this very moment im typing this.
 
 thats all. thanks.
