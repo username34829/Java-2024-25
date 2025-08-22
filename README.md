@@ -17,6 +17,6 @@ i use the same file with different topic and update them when uploading it here.
 the reason for this is because i can learn faster when i use the same object (or class) on the topic. i pair them and see how it changes overtime when learning new concept.
 tho by the end of my learning in OOP im going to create a new Folder about project (it consist of basic, intermid, and OOP concept)
 
-hi, i added an exercise folder, the purpose of this is to callenge myself and for revisiting some concept if needed.
+hi, i added an exercise folder, the purpose of this is to challenge myself and for revisiting some concept if needed.
 
 thats all. thanks.
