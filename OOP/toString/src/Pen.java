@@ -11,7 +11,7 @@ public class Pen extends WritingTool {
         this.nimbSize = nimbSize;
     }
 
-    // .toString Override method from a Object class (super class)
+    // .toString Override method from an Object class (super class)
     @Override
     public String toString(){
         return "---------//---------\n" +
