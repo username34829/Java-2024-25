@@ -29,7 +29,7 @@ public class Subject {
         return prefinals;
     }
 
-    public double getFinalsTermsTerms(){
+    public double getFinalsTerms(){
         return finalsterms;
     }
 
