@@ -3,6 +3,8 @@ import java.util.ArrayList;
 
 public class Main{
     public static void main(String[] args){
+
+        // Objective: Create a program that can input and view arrayList
         Scanner scanner = new Scanner(System.in);
 
         ArrayList<String> names = new ArrayList<>();
