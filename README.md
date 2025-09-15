@@ -9,7 +9,6 @@ all the other code is from 2024 when i haven't use github.
 as you can see most of them repeated practice or same files, its because i stoped for a month and get back of coding and revisiting all the basic concept,
 but as of now, im aiming to master this language at this very moment im typing this.
 
-**[Update]**  
 sorry looks mess, im new here and i dont know much about anything here.
 so no judge here, just explore.
 
