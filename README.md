@@ -24,4 +24,7 @@ hi, i added an exercise folder, the purpose of this is to challenge myself and f
 i added project folder. soon im going to organize everything here. i'll track the date of all the file and upload it in one folder called "2024-Java"
 also im going to create "2025-Aug Java" which all the code of 2025 to Aug when i havent use github.
 
+**[Update]**
+done organising files, i named the folder "Java-2024" and "Java-2025"
+
 thats all. thanks.
