@@ -1,0 +1,23 @@
+public class Main {
+	public static void main(String[] args) {
+		System.out.println("Joshan\"Shan\" Aviles Lucmayan");
+		// learning java
+		/* "Dont waste your time on things that does not surve you"*/
+		
+		int joshan;
+		
+		joshan = 2000;
+		
+		long o = 1000053785867L;
+		
+		float y = 1000f;
+		double x = 10000;
+		
+		boolean v = false; // only true or false
+		char symbol = '$';
+		
+		String name = "lucmayan";
+		
+		System.out.print(name);
+	}
+}
