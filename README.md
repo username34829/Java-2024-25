@@ -1,6 +1,6 @@
 ## All code is created from 2024-2025 using Java
 
-Im 19 years old now and im typing this in Aug/17/00:41/2025
+Im 19 years old and im typing this in Aug|17|2025 | 00:41 AM
 
 i decided to upload all my practice, exercise and activity here right now in java.
 all the other code is from 2024 when i haven't use github.
