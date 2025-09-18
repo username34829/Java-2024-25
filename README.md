@@ -1,4 +1,4 @@
-## All code is created from 2024-2025 using Java
+## All code is created from 2024-2025
 
 Im 19 years old and im typing this in Aug|17|2025 | 00:41 AM
 
