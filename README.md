@@ -27,4 +27,7 @@ also im going to create "2025-Aug Java" which all the code of 2025 to Aug when i
 **[Update]**  
 done organising files, i named the folder "Java-2024" and "Java-2025"
 
+**[Update]**  
+hi, im depressed again, and again abt myself, world and life itself. idk if i can master this lang.
+
 thats all. thanks.
